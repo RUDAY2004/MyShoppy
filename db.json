@@ -1,0 +1,1509 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "category": "Kitchen",
+      "title": "Stainless Steel Cookware Set",
+      "description": "10-piece premium cookware set with non-stick coating.",
+      "price": 89.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1584992236310-6edddc08acff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 2,
+      "category": "Kitchen",
+      "title": "Non-Stick Frying Pan 28cm",
+      "description": "Even heat distribution with heat-resistant handle.",
+      "price": 34.99,
+      "rating": 4.3,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1590794056226-79ef3a8147e1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 3,
+      "category": "Kitchen",
+      "title": "Electric Kettle 1.7L",
+      "description": "Fast-boil kettle with auto shut-off protection.",
+      "price": 29.99,
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1544233726-9f1d2b27be8b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 4,
+      "category": "Kitchen",
+      "title": "Knife Block Set 6-Piece",
+      "description": "Stainless steel knives with wooden block storage.",
+      "price": 49.99,
+      "rating": 4.4,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 5,
+      "category": "Kitchen",
+      "title": "Glass Food Storage Set",
+      "description": "8 BPA-free glass containers with airtight lids.",
+      "price": 39.99,
+      "rating": 4.7,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 6,
+      "category": "Kitchen",
+      "title": "Blender Mixer Pro",
+      "description": "1200W blender for smoothies, soups, and sauces.",
+      "price": 59.99,
+      "rating": 4.5,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 7,
+      "category": "Kitchen",
+      "title": "Cast Iron Dutch Oven",
+      "description": "5-quart enameled Dutch oven for slow cooking.",
+      "price": 74.99,
+      "rating": 4.8,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 8,
+      "category": "Kitchen",
+      "title": "Silicone Baking Mat Set",
+      "description": "Non-stick reusable baking mats, set of 3.",
+      "price": 14.99,
+      "rating": 4.2,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1590080875515-8a3a8dc5735e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 9,
+      "category": "Cleaning",
+      "title": "Multi-Surface Cleaner Spray",
+      "description": "Plant-based cleaner safe for all surfaces.",
+      "price": 8.99,
+      "rating": 4.2,
+      "stock": 60,
+      "image": "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 10,
+      "category": "Cleaning",
+      "title": "Microfiber Mop Set",
+      "description": "360° rotating mop with reusable microfiber pads.",
+      "price": 24.99,
+      "rating": 4.5,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 11,
+      "category": "Cleaning",
+      "title": "Laundry Detergent Pods 60ct",
+      "description": "Concentrated pods for all fabric types.",
+      "price": 14.99,
+      "rating": 4.1,
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 12,
+      "category": "Cleaning",
+      "title": "Compact Vacuum Cleaner",
+      "description": "Lightweight bagless vacuum with HEPA filter.",
+      "price": 79.99,
+      "rating": 4.6,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1558317374-067fb5f30001?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 13,
+      "category": "Cleaning",
+      "title": "Dishwashing Liquid 1L",
+      "description": "Grease-cutting lemon formula, gentle on hands.",
+      "price": 5.99,
+      "rating": 4,
+      "stock": 80,
+      "image": "https://images.pexels.com/photos/31175782/pexels-photo-31175782.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 14,
+      "category": "Cleaning",
+      "title": "Scrub Brush Set",
+      "description": "5-piece brush set for kitchen and bathroom.",
+      "price": 11.99,
+      "rating": 4.3,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 15,
+      "category": "Cleaning",
+      "title": "Floor Cleaner Robot",
+      "description": "Smart robot mop for hard floors.",
+      "price": 199.99,
+      "rating": 4.4,
+      "stock": 8,
+      "image": "https://images.pexels.com/photos/4108711/pexels-photo-4108711.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+      "id": 16,
+      "category": "Cleaning",
+      "title": "Glass Cleaner 750ml",
+      "description": "Streak-free formula for windows and mirrors.",
+      "price": 6.49,
+      "rating": 4.1,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 17,
+      "category": "Home Decor",
+      "title": "Decorative Wall Clock",
+      "description": "Minimalist wooden wall clock for any room.",
+      "price": 27.99,
+      "rating": 4.3,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 18,
+      "category": "Home Decor",
+      "title": "Ceramic Vase Set of 3",
+      "description": "Hand-glazed vases in neutral tones.",
+      "price": 32.99,
+      "rating": 4.5,
+      "stock": 16,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR0nnBQ33fOU-TobkTl5L151tBEJE8_iRcRjuSOYsLnpBwbRTFFA6EwbE0peH6stYCt3tXQWXT57AiiepYLcrr4j068pCu96dWNK9VYGsAvgq2T7KP2rzgXaQ"
+    },
+    {
+      "id": 19,
+      "category": "Home Decor",
+      "title": "LED Table Lamp",
+      "description": "Adjustable warm-white lamp with touch dimmer.",
+      "price": 44.99,
+      "rating": 4.4,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 20,
+      "category": "Home Decor",
+      "title": "Throw Pillow Covers 4-Pack",
+      "description": "Soft velvet covers in earthy colors.",
+      "price": 19.99,
+      "rating": 4.2,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 21,
+      "category": "Home Decor",
+      "title": "Artificial Monstera Plant",
+      "description": "Realistic faux plant in ceramic pot.",
+      "price": 24.99,
+      "rating": 4.6,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1614594975525-e45190c55d0b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 22,
+      "category": "Home Decor",
+      "title": "Scented Candle Set",
+      "description": "Soy wax candles in lavender and vanilla.",
+      "price": 18.99,
+      "rating": 4.5,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1603006905003-be475563bc59?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 23,
+      "category": "Home Decor",
+      "title": "Macrame Wall Hanging",
+      "description": "Handwoven boho wall decor piece.",
+      "price": 29.99,
+      "rating": 4.3,
+      "stock": 18,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRc0B7BYNlWL_HXPB5gRv7XXsKV5bIZSiiJBqkSaG_pc3cL8LkxdoWvp5B9Y7H7OyzowdnQ1fDQeiA-Tkm8AlszfaJtmf5pN0CpyF-URMrJ2I8XXzTBkDa4qw"
+    },
+    {
+      "id": 24,
+      "category": "Home Decor",
+      "title": "Mirror Round 24 inch",
+      "description": "Gold-framed round mirror for entryway.",
+      "price": 54.99,
+      "rating": 4.4,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 25,
+      "category": "Storage",
+      "title": "Stackable Storage Bins 6-Pack",
+      "description": "Clear plastic bins with lids.",
+      "price": 36.99,
+      "rating": 4.5,
+      "stock": 24,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTT6U2ivG9OkxlMFtWorizYzeSFrxxbxhYlY91OsowXPHMqrw5nJKX-BamhN2Uri04irz4ZKodgUTdl834zL3ZbEcedZGSnXHtmrA80U9f9rthXZuu5AjALVg"
+    },
+    {
+      "id": 26,
+      "category": "Storage",
+      "title": "Under-Bed Storage Box",
+      "description": "Large fabric box with zip and handles.",
+      "price": 22.99,
+      "rating": 4.3,
+      "stock": 19,
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 27,
+      "category": "Storage",
+      "title": "Shoe Rack 5-Tier",
+      "description": "Metal rack holding up to 20 pairs.",
+      "price": 41.99,
+      "rating": 4.4,
+      "stock": 11,
+      "image": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 28,
+      "category": "Storage",
+      "title": "Velvet Hangers 10-Pack",
+      "description": "Non-slip hangers for wardrobe organization.",
+      "price": 15.99,
+      "rating": 4.1,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1517677208171-0bc6725a3e60?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 29,
+      "category": "Storage",
+      "title": "Drawer Organizer Set",
+      "description": "Modular dividers for desk and kitchen drawers.",
+      "price": 17.99,
+      "rating": 4.4,
+      "stock": 38,
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 30,
+      "category": "Storage",
+      "title": "Vacuum Storage Bags",
+      "description": "Space-saving bags for clothes and bedding.",
+      "price": 19.99,
+      "rating": 4.2,
+      "stock": 33,
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 31,
+      "category": "Storage",
+      "title": "Over-Door Organizer",
+      "description": "12-pocket hanging organizer for shoes.",
+      "price": 21.99,
+      "rating": 4.3,
+      "stock": 27,
+      "image": "https://images.unsplash.com/photo-1558882224-dda166733046?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 32,
+      "category": "Storage",
+      "title": "Pantry Can Rack",
+      "description": "Tiered can organizer for kitchen cabinets.",
+      "price": 26.99,
+      "rating": 4.5,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1588854337236-6889d631faa8?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 33,
+      "category": "Daily Essentials",
+      "title": "Bamboo Bath Towel Set",
+      "description": "Set of 4 ultra-soft bamboo towels.",
+      "price": 34.99,
+      "rating": 4.6,
+      "stock": 32,
+      "image": "https://images.unsplash.com/photo-1616627547584-bf28cee262db?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 34,
+      "category": "Daily Essentials",
+      "title": "Organic Hand Soap 500ml",
+      "description": "Moisturizing soap with aloe vera.",
+      "price": 7.99,
+      "rating": 4.3,
+      "stock": 70,
+      "image": "https://images.unsplash.com/photo-1600857544200-b2f666a9a2ec?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 35,
+      "category": "Daily Essentials",
+      "title": "Toothbrush Holder Set",
+      "description": "Ceramic toothbrush and soap dispenser.",
+      "price": 12.99,
+      "rating": 4,
+      "stock": 38,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThr8uGBobr6DsnyY7YdTFG9J0Dj7jm_boPRQQUaQyVpojyLlv6-usGy4nTTzPIO3ztBfOyaO4AYkycLOz-aUZoH0EJ-_yE_ZR_KkEoA96NWgVNTZSlIKyh"
+    },
+    {
+      "id": 36,
+      "category": "Daily Essentials",
+      "title": "Reusable Shopping Bags 5-Pack",
+      "description": "Foldable eco-friendly grocery bags.",
+      "price": 11.99,
+      "rating": 4.5,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1597484661643-2f5fef640dd1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 37,
+      "category": "Daily Essentials",
+      "title": "Water Filter Pitcher 2.5L",
+      "description": "BPA-free pitcher with carbon filter.",
+      "price": 26.99,
+      "rating": 4.4,
+      "stock": 24,
+      "image": "https://m.media-amazon.com/images/I/61viWNdfi3L.jpg"
+    },
+    {
+      "id": 38,
+      "category": "Daily Essentials",
+      "title": "Cotton Swabs 500 Count",
+      "description": "Double-tipped cotton swabs pack.",
+      "price": 4.99,
+      "rating": 4.1,
+      "stock": 90,
+      "image": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 39,
+      "category": "Daily Essentials",
+      "title": "Facial Tissue Box 6-Pack",
+      "description": "Soft 2-ply tissues for everyday use.",
+      "price": 9.99,
+      "rating": 4.2,
+      "stock": 65,
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/facial-tissue/e/7/m/2-ply-facial-tissue-paper-for-face-200-pulls-box-pack-of-1-1-1-original-imah29h4et9gyrhe.jpeg?q=90"
+    },
+    {
+      "id": 40,
+      "category": "Daily Essentials",
+      "title": "Shower Curtain Set",
+      "description": "Waterproof curtain with 12 hooks included.",
+      "price": 16.99,
+      "rating": 4.3,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 41,
+      "category": "Electronics",
+      "title": "Wireless Bluetooth Headphones",
+      "description": "Over-ear headphones with 30hr battery.",
+      "price": 79.99,
+      "rating": 4.5,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 42,
+      "category": "Electronics",
+      "title": "Smart LED TV 43 inch",
+      "description": "4K UHD smart TV with streaming apps.",
+      "price": 349.99,
+      "rating": 4.6,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1593784991095-a205069470b6?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 43,
+      "category": "Electronics",
+      "title": "Portable Bluetooth Speaker",
+      "description": "Waterproof speaker with 12hr playtime.",
+      "price": 49.99,
+      "rating": 4.4,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 44,
+      "category": "Electronics",
+      "title": "Wireless Mouse",
+      "description": "Ergonomic mouse with silent clicks.",
+      "price": 24.99,
+      "rating": 4.3,
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 45,
+      "category": "Electronics",
+      "title": "USB-C Hub 7-in-1",
+      "description": "Multi-port adapter for laptops.",
+      "price": 34.99,
+      "rating": 4.2,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1616410011236-7a42121dd981?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 46,
+      "category": "Electronics",
+      "title": "Smart Watch Fitness Tracker",
+      "description": "Heart rate, GPS, and sleep tracking.",
+      "price": 129.99,
+      "rating": 4.5,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 47,
+      "category": "Electronics",
+      "title": "Mechanical Keyboard RGB",
+      "description": "Tactile switches with customizable lighting.",
+      "price": 89.99,
+      "rating": 4.7,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 48,
+      "category": "Electronics",
+      "title": "Webcam HD 1080p",
+      "description": "Auto-focus webcam with built-in mic.",
+      "price": 59.99,
+      "rating": 4.3,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1585060544812-6b45742d762f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 49,
+      "category": "Mobile Accessories",
+      "title": "Fast Charger 25W USB-C",
+      "description": "Quick charge adapter for smartphones.",
+      "price": 19.99,
+      "rating": 4.4,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 50,
+      "category": "Mobile Accessories",
+      "title": "Phone Case Clear TPU",
+      "description": "Shockproof transparent case.",
+      "price": 12.99,
+      "rating": 4.2,
+      "stock": 60,
+      "image": "https://m.media-amazon.com/images/I/41aHmAFP3aL.jpg"
+    },
+    {
+      "id": 51,
+      "category": "Mobile Accessories",
+      "title": "Wireless Earbuds Pro",
+      "description": "Active noise cancellation, 24hr battery.",
+      "price": 69.99,
+      "rating": 4.6,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 52,
+      "category": "Mobile Accessories",
+      "title": "Car Phone Mount",
+      "description": "Dashboard magnetic phone holder.",
+      "price": 14.99,
+      "rating": 4.3,
+      "stock": 40,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLlmIuFp4BmDj6XvEkhvpbazABMa4ewYBr45oNZxtWRN_dNnD3u9vNm6YGCo-d2pz-mBMhXzfm6UV_lW8usBJtfl-QLUFZ5dwktQeho40CRdbXCRb5xe1RIIo"
+    },
+    {
+      "id": 53,
+      "category": "Mobile Accessories",
+      "title": "Power Bank 20000mAh",
+      "description": "Dual USB fast charging power bank.",
+      "price": 29.99,
+      "rating": 4.5,
+      "stock": 35,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCNXgottOKxknaZJWKSh0Lbi1OPCcVlEEILueizi335SnA4cTE8ic88KXImPdBqN2n6Wl3sa5814_XpndIMY3pZIbztGPEGg"
+    },
+    {
+      "id": 54,
+      "category": "Mobile Accessories",
+      "title": "Tempered Glass Screen Protector",
+      "description": "9H hardness, bubble-free install.",
+      "price": 9.99,
+      "rating": 4.1,
+      "stock": 75,
+      "image": "https://ringke.co.in/cdn/shop/files/71-RSqgE9yL._SL1500.jpg?v=1695227631"
+    },
+    {
+      "id": 55,
+      "category": "Mobile Accessories",
+      "title": "Phone Ring Holder",
+      "description": "360° rotation kickstand ring grip.",
+      "price": 7.99,
+      "rating": 4,
+      "stock": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE1_xw6hyybUmj9TxQTTHb07Qw3AowKHrYn_YTF1993KkIBoDZsObeLwo&s=10"
+    },
+    {
+      "id": 56,
+      "category": "Mobile Accessories",
+      "title": "Braided USB-C Cable 2m",
+      "description": "Durable nylon braided charging cable.",
+      "price": 11.99,
+      "rating": 4.4,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 57,
+      "category": "Fashion",
+      "title": "Classic Denim Jacket",
+      "description": "Medium wash denim jacket, unisex fit.",
+      "price": 59.99,
+      "rating": 4.5,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 58,
+      "category": "Fashion",
+      "title": "Leather Belt Brown",
+      "description": "Genuine leather belt with brass buckle.",
+      "price": 24.99,
+      "rating": 4.3,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1624222247344-550fb60583dc?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 59,
+      "category": "Fashion",
+      "title": "Aviator Sunglasses",
+      "description": "UV400 polarized metal frame sunglasses.",
+      "price": 34.99,
+      "rating": 4.4,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 60,
+      "category": "Fashion",
+      "title": "Canvas Tote Bag",
+      "description": "Large eco-friendly shoulder tote bag.",
+      "price": 19.99,
+      "rating": 4.2,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 61,
+      "category": "Fashion",
+      "title": "Wool Scarf Winter",
+      "description": "Soft merino wool scarf in plaid pattern.",
+      "price": 29.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 62,
+      "category": "Fashion",
+      "title": "Baseball Cap Cotton",
+      "description": "Adjustable cotton cap with embroidered logo.",
+      "price": 14.99,
+      "rating": 4.1,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 63,
+      "category": "Fashion",
+      "title": "Crossbody Leather Bag",
+      "description": "Compact genuine leather crossbody purse.",
+      "price": 44.99,
+      "rating": 4.6,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 64,
+      "category": "Fashion",
+      "title": "Silk Tie Collection",
+      "description": "Set of 3 premium silk neckties.",
+      "price": 39.99,
+      "rating": 4.3,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1598032895397-b9472444bf93?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 65,
+      "category": "Men's Clothing",
+      "title": "Cotton Polo Shirt",
+      "description": "Classic fit polo in navy blue.",
+      "price": 29.99,
+      "rating": 4.4,
+      "stock": 30,
+      "image": "https://assets.myntassets.com/h_1440,q_75,w_1080/v1/assets/images/20384240/2025/3/15/43fd1f5b-df34-4eb8-847d-febefa143e001742031312147-U-S-Polo-Assn-Men-Green-Solid-Cotton-Classic-Everyday-Shirt--1.jpg"
+    },
+    {
+      "id": 66,
+      "category": "Men's Clothing",
+      "title": "Slim Fit Chinos",
+      "description": "Stretch cotton chinos in khaki.",
+      "price": 44.99,
+      "rating": 4.3,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 67,
+      "category": "Men's Clothing",
+      "title": "Formal Dress Shirt",
+      "description": "Wrinkle-free white dress shirt.",
+      "price": 39.99,
+      "rating": 4.5,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1620012253295-c15cc3e65df4?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 68,
+      "category": "Men's Clothing",
+      "title": "Hooded Sweatshirt",
+      "description": "Fleece-lined pullover hoodie.",
+      "price": 49.99,
+      "rating": 4.6,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 69,
+      "category": "Men's Clothing",
+      "title": "Cargo Shorts",
+      "description": "Multi-pocket cotton cargo shorts.",
+      "price": 34.99,
+      "rating": 4.2,
+      "stock": 32,
+      "image": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 70,
+      "category": "Men's Clothing",
+      "title": "Wool Blazer Navy",
+      "description": "Single-breasted wool blend blazer.",
+      "price": 89.99,
+      "rating": 4.5,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 71,
+      "category": "Men's Clothing",
+      "title": "Graphic T-Shirt Pack",
+      "description": "Pack of 3 cotton crew neck tees.",
+      "price": 24.99,
+      "rating": 4.1,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 72,
+      "category": "Men's Clothing",
+      "title": "Thermal Underwear Set",
+      "description": "Moisture-wicking base layer set.",
+      "price": 27.99,
+      "rating": 4.3,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 73,
+      "category": "Women's Clothing",
+      "title": "Floral Maxi Dress",
+      "description": "Flowy summer dress with floral print.",
+      "price": 54.99,
+      "rating": 4.6,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 74,
+      "category": "Women's Clothing",
+      "title": "High-Waist Jeans",
+      "description": "Stretch denim skinny jeans.",
+      "price": 49.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 75,
+      "category": "Women's Clothing",
+      "title": "Blouse Silk Blend",
+      "description": "Elegant office wear blouse.",
+      "price": 39.99,
+      "rating": 4.4,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 76,
+      "category": "Women's Clothing",
+      "title": "Cardigan Knit Sweater",
+      "description": "Open-front soft knit cardigan.",
+      "price": 44.99,
+      "rating": 4.5,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 77,
+      "category": "Women's Clothing",
+      "title": "Leggings Yoga 2-Pack",
+      "description": "High-waist stretch yoga leggings.",
+      "price": 29.99,
+      "rating": 4.3,
+      "stock": 35,
+      "image": "https://m.media-amazon.com/images/I/21sGqsf6OEL._AC_UY1100_.jpg"
+    },
+    {
+      "id": 78,
+      "category": "Women's Clothing",
+      "title": "Evening Cocktail Dress",
+      "description": "Elegant black cocktail dress.",
+      "price": 79.99,
+      "rating": 4.7,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1566174053879-31528523f8ae?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 79,
+      "category": "Women's Clothing",
+      "title": "Linen Summer Top",
+      "description": "Breathable linen button-up top.",
+      "price": 34.99,
+      "rating": 4.2,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 80,
+      "category": "Women's Clothing",
+      "title": "Pleated Midi Skirt",
+      "description": "A-line pleated skirt in pastel pink.",
+      "price": 36.99,
+      "rating": 4.4,
+      "stock": 24,
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 81,
+      "category": "Footwear",
+      "title": "Running Shoes Men",
+      "description": "Lightweight mesh running sneakers.",
+      "price": 69.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 82,
+      "category": "Footwear",
+      "title": "Leather Formal Shoes",
+      "description": "Oxford dress shoes in black leather.",
+      "price": 89.99,
+      "rating": 4.6,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1614252235316-8c857d38b5f4?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 83,
+      "category": "Footwear",
+      "title": "Women Heels Stiletto",
+      "description": "Classic black stiletto heels.",
+      "price": 59.99,
+      "rating": 4.4,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 84,
+      "category": "Footwear",
+      "title": "Canvas Sneakers Unisex",
+      "description": "Classic white low-top canvas shoes.",
+      "price": 39.99,
+      "rating": 4.3,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 85,
+      "category": "Footwear",
+      "title": "Hiking Boots Waterproof",
+      "description": "Ankle-high waterproof hiking boots.",
+      "price": 99.99,
+      "rating": 4.7,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 86,
+      "category": "Footwear",
+      "title": "Flip Flops Beach",
+      "description": "Comfortable rubber beach sandals.",
+      "price": 14.99,
+      "rating": 4.1,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 87,
+      "category": "Footwear",
+      "title": "Slip-On Loafers",
+      "description": "Casual suede slip-on loafers.",
+      "price": 54.99,
+      "rating": 4.4,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 88,
+      "category": "Footwear",
+      "title": "Sports Sandals",
+      "description": "Adjustable strap outdoor sandals.",
+      "price": 34.99,
+      "rating": 4.2,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 89,
+      "category": "Beauty",
+      "title": "Moisturizing Face Cream",
+      "description": "Hydrating day cream with SPF 30.",
+      "price": 24.99,
+      "rating": 4.5,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 90,
+      "category": "Beauty",
+      "title": "Matte Lipstick Set",
+      "description": "Set of 6 long-lasting matte lipsticks.",
+      "price": 19.99,
+      "rating": 4.4,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 91,
+      "category": "Beauty",
+      "title": "Hair Dryer Professional",
+      "description": "Ionic hair dryer with diffuser.",
+      "price": 49.99,
+      "rating": 4.3,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 92,
+      "category": "Beauty",
+      "title": "Perfume Eau de Parfum",
+      "description": "Floral fragrance 50ml bottle.",
+      "price": 59.99,
+      "rating": 4.6,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 93,
+      "category": "Beauty",
+      "title": "Makeup Brush Set 12pc",
+      "description": "Professional synthetic brush set.",
+      "price": 29.99,
+      "rating": 4.5,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 94,
+      "category": "Beauty",
+      "title": "Vitamin C Serum",
+      "description": "Brightening facial serum 30ml.",
+      "price": 22.99,
+      "rating": 4.4,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 95,
+      "category": "Beauty",
+      "title": "Nail Polish Collection",
+      "description": "Set of 10 trendy nail polish colors.",
+      "price": 16.99,
+      "rating": 4.2,
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 96,
+      "category": "Beauty",
+      "title": "Beard Grooming Kit",
+      "description": "Oil, balm, and comb for beard care.",
+      "price": 27.99,
+      "rating": 4.3,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1621607512214-68297480165e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 97,
+      "category": "Grocery",
+      "title": "Organic Olive Oil 500ml",
+      "description": "Extra virgin cold-pressed olive oil.",
+      "price": 12.99,
+      "rating": 4.6,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 98,
+      "category": "Grocery",
+      "title": "Basmati Rice 5kg",
+      "description": "Premium aged long-grain basmati rice.",
+      "price": 14.99,
+      "rating": 4.5,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 99,
+      "category": "Grocery",
+      "title": "Mixed Nuts 1kg",
+      "description": "Roasted unsalted mixed nuts pack.",
+      "price": 18.99,
+      "rating": 4.4,
+      "stock": 30,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxODDdaG8DuhKrF-w_0w8P3qbfcekQ21op9uJZvYblUIIZBtcxRzjjgnD0v0LbCfxpT-ZOkK65p3_Nu9hg-_dMtHTmQ316Up5yPhsNYnVcNvmp2FA1qRAEkQ"
+    },
+    {
+      "id": 100,
+      "category": "Grocery",
+      "title": "Green Tea 100 Bags",
+      "description": "Organic green tea bags box.",
+      "price": 9.99,
+      "rating": 4.3,
+      "stock": 50,
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 101,
+      "category": "Grocery",
+      "title": "Honey Raw Organic 500g",
+      "description": "Pure unfiltered raw honey jar.",
+      "price": 11.99,
+      "rating": 4.7,
+      "stock": 28,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRR9rlvCwiQCNKWvIaqlnyHZGbe9Lb8vYHIFXzgQ81ndh8jVzPi2JzJuXhqgSRqko9-5U6JgBIqIfOuONuDLNsdLR-VV__99IUCvTAwTcxezEjdibky18Lg5eQ"
+    },
+    {
+      "id": 102,
+      "category": "Grocery",
+      "title": "Pasta Penne 500g x 4",
+      "description": "Italian durum wheat penne pasta pack.",
+      "price": 7.99,
+      "rating": 4.2,
+      "stock": 55,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUSm3qnGSadaajMUvs_-sJwzn68nfGBnjv0IrSN2wC0w&s"
+    },
+    {
+      "id": 103,
+      "category": "Grocery",
+      "title": "Dark Chocolate Bar 6-Pack",
+      "description": "70% cocoa artisan chocolate bars.",
+      "price": 13.99,
+      "rating": 4.5,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1549007994-cb92caebd54b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 104,
+      "category": "Grocery",
+      "title": "Instant Coffee 200g",
+      "description": "Premium freeze-dried instant coffee.",
+      "price": 10.99,
+      "rating": 4.3,
+      "stock": 48,
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 105,
+      "category": "Sports",
+      "title": "Yoga Mat 6mm",
+      "description": "Non-slip TPE yoga mat with carry strap.",
+      "price": 24.99,
+      "rating": 4.5,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 106,
+      "category": "Sports",
+      "title": "Dumbbell Set 20kg",
+      "description": "Adjustable cast iron dumbbell pair.",
+      "price": 79.99,
+      "rating": 4.6,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 107,
+      "category": "Sports",
+      "title": "Cricket Bat English Willow",
+      "description": "Professional grade cricket bat.",
+      "price": 89.99,
+      "rating": 4.4,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 108,
+      "category": "Sports",
+      "title": "Football Size 5",
+      "description": "FIFA quality match football.",
+      "price": 29.99,
+      "rating": 4.3,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1614632537190-23e4146777db?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 109,
+      "category": "Sports",
+      "title": "Resistance Bands Set",
+      "description": "5-level latex resistance band set.",
+      "price": 19.99,
+      "rating": 4.4,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 110,
+      "category": "Sports",
+      "title": "Tennis Racket Pro",
+      "description": "Graphite tennis racket with cover.",
+      "price": 69.99,
+      "rating": 4.5,
+      "stock": 15,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-xmAj2angoyxmSNoYQWN2yfWDqhIukn0Fp7EI6KB1BPuD5kp34T4kez6UaMlSx0o8vL0feIMia0UxWs7sXo2-ADeUvBKPeGrl7ArlFRkpu7lh3SuBwYlmd8g"
+    },
+    {
+      "id": 111,
+      "category": "Sports",
+      "title": "Swimming Goggles",
+      "description": "Anti-fog UV protection swim goggles.",
+      "price": 14.99,
+      "rating": 4.2,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 112,
+      "category": "Sports",
+      "title": "Cycling Helmet",
+      "description": "Lightweight ventilated bike helmet.",
+      "price": 44.99,
+      "rating": 4.5,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 113,
+      "category": "Toys",
+      "title": "Building Blocks 500pc",
+      "description": "Creative construction block set.",
+      "price": 34.99,
+      "rating": 4.6,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 114,
+      "category": "Toys",
+      "title": "Remote Control Car",
+      "description": "High-speed RC car with rechargeable battery.",
+      "price": 49.99,
+      "rating": 4.5,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1594787318286-3d835c1d207f?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 115,
+      "category": "Toys",
+      "title": "Plush Teddy Bear",
+      "description": "Soft 40cm cuddly teddy bear.",
+      "price": 19.99,
+      "rating": 4.7,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1559454403-b8fb88521f11?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 116,
+      "category": "Toys",
+      "title": "Board Game Family Pack",
+      "description": "Classic family board game collection.",
+      "price": 29.99,
+      "rating": 4.4,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 117,
+      "category": "Toys",
+      "title": "Art & Craft Kit",
+      "description": "Complete painting and craft supplies kit.",
+      "price": 24.99,
+      "rating": 4.3,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 118,
+      "category": "Toys",
+      "title": "Puzzle 1000 Pieces",
+      "description": "Landscape jigsaw puzzle for adults.",
+      "price": 16.99,
+      "rating": 4.5,
+      "stock": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTiQvgeZZFhR1tR2ew1votx-NmHksTubZ2RArcTqM8PjFfYQ4vzE6IWWJsw1wABpgpJ0DFjtO1IFvtfK1Uq1zp0w_uGc0zNwCRDxbS25PyFzg4b5JjaDVfXWM"
+    },
+    {
+      "id": 119,
+      "category": "Toys",
+      "title": "Action Figure Set",
+      "description": "Collectible superhero action figures 3-pack.",
+      "price": 27.99,
+      "rating": 4.2,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1608889825205-eebdb9fc5806?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 120,
+      "category": "Toys",
+      "title": "Musical Keyboard Toy",
+      "description": "37-key electronic keyboard for kids.",
+      "price": 39.99,
+      "rating": 4.4,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1520523839897-bd0b52f945a0?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 121,
+      "category": "Books",
+      "title": "The Great Novel",
+      "description": "Bestselling fiction paperback edition.",
+      "price": 12.99,
+      "rating": 4.6,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 122,
+      "category": "Books",
+      "title": "Cookbook Mediterranean",
+      "description": "200 recipes from Mediterranean cuisine.",
+      "price": 24.99,
+      "rating": 4.5,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 123,
+      "category": "Books",
+      "title": "Self Help Motivation",
+      "description": "Guide to personal growth and success.",
+      "price": 14.99,
+      "rating": 4.4,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 124,
+      "category": "Books",
+      "title": "Children Storybook Set",
+      "description": "Illustrated bedtime stories 5-book set.",
+      "price": 19.99,
+      "rating": 4.7,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 125,
+      "category": "Books",
+      "title": "Science Encyclopedia",
+      "description": "Visual encyclopedia for young readers.",
+      "price": 29.99,
+      "rating": 4.5,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 126,
+      "category": "Books",
+      "title": "Mystery Thriller Hardcover",
+      "description": "Edge-of-seat mystery novel hardcover.",
+      "price": 18.99,
+      "rating": 4.3,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 127,
+      "category": "Books",
+      "title": "History of the World",
+      "description": "Comprehensive world history reference.",
+      "price": 34.99,
+      "rating": 4.6,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1461360370896-922624d12aa1?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 128,
+      "category": "Books",
+      "title": "Poetry Collection",
+      "description": "Modern poetry anthology paperback.",
+      "price": 11.99,
+      "rating": 4.2,
+      "stock": 38,
+      "image": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 129,
+      "category": "Furniture",
+      "title": "Ergonomic Office Chair",
+      "description": "Adjustable lumbar support desk chair.",
+      "price": 199.99,
+      "rating": 4.5,
+      "stock": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTpn8kXjFREzm_LbGobjOR9Thv2HeOOcUqj34fcd8lxv6a2SQD6-VtVt8XyIjeHvMKn9bEMJVyc3sxt-yjddZoySt7QnQPNympD4ac9X-85AYMnijjF8YXx2Q"
+    },
+    {
+      "id": 130,
+      "category": "Furniture",
+      "title": "Bookshelf 5-Tier Wood",
+      "description": "Modern wooden open bookshelf unit.",
+      "price": 89.99,
+      "rating": 4.4,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1594620302200-9a762244a156?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 131,
+      "category": "Furniture",
+      "title": "Coffee Table Modern",
+      "description": "Minimalist oak coffee table.",
+      "price": 129.99,
+      "rating": 4.6,
+      "stock": 8,
+      "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 132,
+      "category": "Furniture",
+      "title": "Dining Table Set 4-Seater",
+      "description": "Solid wood dining table with 4 chairs.",
+      "price": 449.99,
+      "rating": 4.7,
+      "stock": 5,
+      "image": "https://images.unsplash.com/photo-1615066390971-03e4e1c36ddf?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 133,
+      "category": "Furniture",
+      "title": "Bedside Table Nightstand",
+      "description": "Compact nightstand with drawer.",
+      "price": 59.99,
+      "rating": 4.3,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1532323544230-7191fd51bc1b?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 134,
+      "category": "Furniture",
+      "title": "Sofa 3-Seater Fabric",
+      "description": "Comfortable grey fabric sofa.",
+      "price": 599.99,
+      "rating": 4.5,
+      "stock": 4,
+      "image": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 135,
+      "category": "Furniture",
+      "title": "Study Desk with Drawers",
+      "description": "Spacious writing desk with storage.",
+      "price": 149.99,
+      "rating": 4.4,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 136,
+      "category": "Furniture",
+      "title": "Wardrobe 2-Door",
+      "description": "Spacious 2-door bedroom wardrobe.",
+      "price": 279.99,
+      "rating": 4.5,
+      "stock": 6,
+      "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 137,
+      "category": "Travel",
+      "title": "Hard Shell Suitcase 24 inch",
+      "description": "Lightweight spinner luggage TSA lock.",
+      "price": 89.99,
+      "rating": 4.5,
+      "stock": 20,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdrSNUD3u6Arjpeyruqp8a_fTAjFtBGLWviU9M5FEwqCf9vJaNjcjiD4P1ohVsSCv8WhWpU1cLFcu36UhIgQ4SnZ8mWczdXS_Zru-qIba_Awp7kk6rY6zedN6M"
+    },
+    {
+      "id": 138,
+      "category": "Travel",
+      "title": "Travel Backpack 40L",
+      "description": "Water-resistant hiking travel backpack.",
+      "price": 59.99,
+      "rating": 4.6,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 139,
+      "category": "Travel",
+      "title": "Packing Cubes Set",
+      "description": "6-piece compression packing cube set.",
+      "price": 24.99,
+      "rating": 4.4,
+      "stock": 35,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRZ39ojH1KYmPp2k2II2jsAbkcOgI0wMUKAXq2YJWDCwGwYNczu2HWbT-LFWKm_7eotsEp9JaQfy1fJWgmH8aC0xOUvAHm7XA"
+    },
+    {
+      "id": 140,
+      "category": "Travel",
+      "title": "Neck Pillow Memory Foam",
+      "description": "U-shaped travel neck support pillow.",
+      "price": 19.99,
+      "rating": 4.3,
+      "stock": 40,
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTYw4PGMUXNb98lvwlV4M88EeySMJfNMs-EG7BG5ayynGf8XH-OjrF5GqlEb-R4j9Q63hjBMjrxrhOVreco8yk6syRcXuB0olqQOOugGZZEPF5i4llbM08h"
+    },
+    {
+      "id": 141,
+      "category": "Travel",
+      "title": "Travel Adapter Universal",
+      "description": "All-in-one plug adapter 150+ countries.",
+      "price": 22.99,
+      "rating": 4.5,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1563770660941-20978e870e26?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 142,
+      "category": "Travel",
+      "title": "Toiletry Bag Hanging",
+      "description": "Waterproof hanging toiletry organizer.",
+      "price": 16.99,
+      "rating": 4.2,
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 143,
+      "category": "Travel",
+      "title": "Sun Hat Wide Brim",
+      "description": "Packable UPF 50+ sun protection hat.",
+      "price": 14.99,
+      "rating": 4.1,
+      "stock": 38,
+      "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=600&q=80"
+    },
+    {
+      "id": 144,
+      "category": "Travel",
+      "title": "Carry-On Cabin Bag",
+      "description": "20 inch lightweight cabin trolley bag.",
+      "price": 69.99,
+      "rating": 4.5,
+      "stock": 18,
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTB3lxhMdXFRlBjqf2SwUwd1RoCvfDNPHgJIMgggFPRMqw_wp2rIKE4HI9O6wXuT7bmirYXJRG29BJ-TUeXfvjMcVWIz6ohwybJNfhc9rkPXw_EQ2GJIi9F2Jli"
+    }
+  ],
+  "orders": [
+    {
+      "customer": {
+        "fullName": "R Uday Sri kumar",
+        "phone": "9949104600",
+        "email": "rudaysrikumar2004@gmail.com",
+        "address": "Sai Baba street, Tirupati, Andhra Pradesh ",
+        "city": "Tirupati ",
+        "state": "Andhra Pradesh ",
+        "pincode": "517526"
+      },
+      "items": [
+        {
+          "id": 6,
+          "category": "Kitchen",
+          "title": "Blender Mixer Pro",
+          "description": "1200W blender for smoothies, soups, and sauces.",
+          "price": 59.99,
+          "rating": 4.5,
+          "stock": 22,
+          "image": "https://images.unsplash.com/photo-1570222094114-d054a817e56b?auto=format&fit=crop&w=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 59.99,
+      "gst": 10.7982,
+      "delivery": 49,
+      "grandTotal": 119.7882,
+      "totalItems": 1,
+      "orderDate": "2026-08-02T06:15:15.715Z",
+      "status": "Placed",
+      "id": 1
+    },
+    {
+      "customer": {
+        "fullName": "R Uday Sri kumar",
+        "phone": "9949104600",
+        "email": "rudaysrikumar904@gmail.com",
+        "address": "Sai street, Tirupati, Andhra Pradesh ",
+        "city": "Tirupati ",
+        "state": "Andhra Pradesh ",
+        "pincode": "517526"
+      },
+      "items": [
+        {
+          "id": 49,
+          "category": "Mobile Accessories",
+          "title": "Fast Charger 25W USB-C",
+          "description": "Quick charge adapter for smartphones.",
+          "price": 19.99,
+          "rating": 4.4,
+          "stock": 50,
+          "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
+          "quantity": 1
+        }
+      ],
+      "subtotal": 19.99,
+      "gst": 3.5981999999999994,
+      "delivery": 49,
+      "grandTotal": 72.5882,
+      "totalItems": 1,
+      "orderDate": "2026-08-02T06:38:33.666Z",
+      "status": "Placed",
+      "id": 2
+    }
+  ]
+}
